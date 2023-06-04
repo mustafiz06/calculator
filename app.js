@@ -1,0 +1,3 @@
+function persentence(num) {
+    const 
+}
